@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @furkanchakir
 - 👀 I’m interested in website development, cyber security and a little bit robotics.
-- 🌱 I’m currently learning HTML&CSS , C++ , JavaScript.
+- 🌱 I’m currently learning HTML&CSS , C++,Python,JavaScript.
 - 📫 If you reach me from e-mail, you can send me e-mail to furkancakir205@gmail.com
 
 <!---
